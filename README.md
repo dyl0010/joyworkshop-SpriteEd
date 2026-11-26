@@ -2,6 +2,10 @@
 
 SpriteEd 是一个个人使用的 C++20 / Dear ImGui 精灵表编辑工作台。第一版方向不是保守复刻 TexturePacker，而是优先落地“中心画布 + 浮动控制台”的高效率工作流。
 
+![](./sped1.png)
+![](./sped2.png)
+![](./sped3.png)
+
 ## 第一版已覆盖
 
 - Dear ImGui 主窗口，启用 Docking，默认可启用 Viewports。
